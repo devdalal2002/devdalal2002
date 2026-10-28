@@ -6,6 +6,7 @@ I build ML systems that hold up under production load — LLM inference, retriev
 
 - 🔭 Currently: retrieval systems with honest evals, and agents that hand off to deterministic code
 - 💼 Open to full-time **AI/ML Engineer** roles — remote or relocation
+- 🌐 [devdalal.vercel.app](https://devdalal.vercel.app)
 - 📫 [dalaldh2002@gmail.com](mailto:dalaldh2002@gmail.com) · [LinkedIn](https://linkedin.com/in/dev-dalal)
 
 ---
